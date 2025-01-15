@@ -1,7 +1,7 @@
 # **IMDB Movie Analysis**
 
 ## **Overview**
-This repository contains an analysis of the IMDB dataset, exploring factors that influence the box office success of movies and TV shows. The dataset, sourced from Kaggle, includes key variables such as IMDB ratings, gross revenue, runtime, and more. The project aims to uncover insights through data cleaning, association analysis, and regression modeling. Detailed results and conclusions are documented in docs.
+This repository contains an analysis of the IMDB dataset, exploring factors that influence the box office success of movies and TV shows. The dataset, sourced from Kaggle, includes key variables such as IMDB ratings, gross revenue, runtime, and more. The project aims to uncover insights through data cleaning, association analysis, and regression modeling. Detailed results and conclusions are documented in [docs](https://github.com/giocondaprada91/IMDB_Movie_Analysis/blob/ee6f73de8a1ad1d72f60b6423e30c6006ac36d0c/docs)
 
 ---
 
