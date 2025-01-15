@@ -6,7 +6,7 @@ This repository contains an analysis of the IMDB dataset, exploring factors that
 ---
 
 ## **Dataset**
-- **Source**: The dataset was obtained from [Kaggle](https://www.kaggle.com/).
+- **Source**: The dataset was obtained from [Kaggle](https://github.com/giocondaprada91/IMDB_Movie_Analysis/blob/c320ea55f264a50d79ab7cfaf1850bbe1ce06cad/data)
 - **Key Features**:
   - IMDB Ratings
   - Gross Revenue
@@ -18,18 +18,15 @@ This repository contains an analysis of the IMDB dataset, exploring factors that
 ---
 
 ## **Project Structure**
-- **`scripts/`**: Contains R code for data processing and analysis.
-  - `data_cleaning.R`: Prepares the dataset for analysis.
-  - `analysis.R`: Conducts association and regression analyses.
-  - `visualizations.R`: Generates plots and visualizations.
-- **`data/`**: Includes the raw dataset (if sharing is allowed) or instructions to access it.
-- **`docs/`**: Contains the final report summarizing key findings.
+- **`scripts`**: Contains R code for data processing and analysis.
+- **`data`**: Includes the raw dataset.
+- **`Finalreport.pdf`**: Contains the final report summarizing key findings.
 - **`README.md`**: Overview of the project and usage instructions.
 
 ---
 
 ## **Results**
-All results, insights, and conclusions are documented in the [Final Report](./docs/final_report.pdf). Highlights include:
+All results, insights, and conclusions are documented in the [Finalreport.pdf](https://github.com/giocondaprada91/IMDB_Movie_Analysis/blob/c320ea55f264a50d79ab7cfaf1850bbe1ce06cad/Finalreport.pdf). Highlights include:
 - Statistical relationships between variables like IMDB ratings, runtime, and gross revenue.
 - Insights into factors influencing movie success.
 - Limitations of the dataset in fully predicting box office performance.
@@ -48,10 +45,10 @@ All results, insights, and conclusions are documented in the [Final Report](./do
 ### **2. Steps to Run the Code**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/IMDB_Movie_Analysis.git
+   git clone https://github.com/giocondaprada91/IMDB_Movie_Analysis.git
    ```
 2. **Navigate to the Code Folder**:
-   Open the `scripts/` folder and locate the relevant R script (`analysis.R` or similar).
+   Open the `scripts` folder and locate the relevant R script (`analysis.R` or similar).
 3. **Run in RStudio**:
    Open the script in RStudio or any R IDE. Run each section of the code sequentially to replicate the analysis.
 
